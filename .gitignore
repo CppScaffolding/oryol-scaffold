@@ -1,0 +1,4 @@
+## .gitignore file for oryol-scaffold
+
+## ignore folder fetched through gclient
+oryol
